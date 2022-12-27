@@ -1,0 +1,2 @@
+# CTGU_class2ics
+CTGU课程表xlsx文件转化为ICS文件导入IOS
