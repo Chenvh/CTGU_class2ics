@@ -260,4 +260,4 @@ def writeisc(date_begin,class_info,wpath):
     f.close()    
 
 
-writeisc("2023-02-16", read_xls("./class.xlsx"), "./")
+# writeisc("2023-02-16", read_xls("./class.xlsx"), "./")
